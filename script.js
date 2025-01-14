@@ -138,8 +138,8 @@ function calculateSentiment(data) {
   return Math.min(Math.max(Math.round(score), 0), 100);
 }
 
-// Processar transações do SuiScan
-function processSuiscanTransactions(transactions) {
+// Processar transações do SolanaScan
+function processSolanascanTransactions(transactions) {
   const last24h = transactions.filter((tx) => {
     const txTime = new Date(tx.timestamp).getTime();
     const now = Date.now();
