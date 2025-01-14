@@ -484,6 +484,11 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 	margin-top: 0.5rem;
+	
+.hero-title {
+  margin-top: 20px; /* Anda dapat menyesuaikan nilai ini sesuai kebutuhan */
+}
+	
 }
 
 .pressure-percentage {
