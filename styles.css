@@ -485,9 +485,10 @@ nav {
 	align-items: center;
 	margin-top: 0.5rem;
 	
-.hero-title {
-  margin-top: 20px; /* Anda dapat menyesuaikan nilai ini sesuai kebutuhan */
 }
+
+.hero-title {
+  margin-top: 10px; /* Anda dapat menyesuaikan nilai ini sesuai kebutuhan */
 	
 }
 
