@@ -1,0 +1,14 @@
+{
+	"name": "AiRA",
+	"short_name": "AiRA",
+	"icons": [
+		{
+			"src": "safari-pinned-tab.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512"
+		}
+	],
+	"theme_color": "#00ff9d",
+	"background_color": "#0f0f0f",
+	"display": "standalone"
+}
