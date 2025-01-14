@@ -656,7 +656,7 @@ function calculateVolumeTrend(data) {
 // Função para copiar o endereço do contrato
 function copyContract() {
   const contractAddress =
-    "0x8385d4324b63ef5935f076b9cae6e0fe1b7353699b08fc6d33e2b1544cff5471::aira::AIRA";
+    "0xmemek";
   navigator.clipboard.writeText(contractAddress).then(() => {
     const copyBtn = document.querySelector(".copy-btn");
     copyBtn.innerHTML = '<i class="fas fa-check"></i>';
